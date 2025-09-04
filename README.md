@@ -41,9 +41,9 @@ The SSP5-8.5 scenario envisions a future driven by rapid, fossil-fuel-dependent 
 
 ---
 
-# Citation
-[^1]:	K. Riahi et al., "The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview," Global Environmental Change, vol. 42, pp. 153–168, 2017/01/01/ 2017, doi: https://doi.org/10.1016/j.gloenvcha.2016.05.009.
+Author: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024
 
 ---
 
-Author: [Seongjun Lee](mailto:seongjunlee4473@gmail.com?subject=Questions%20for%20GitHub%20projects) @ Jun 2024
+# Citation
+[^1]:	K. Riahi et al., "The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications: An overview," Global Environmental Change, vol. 42, pp. 153–168, 2017/01/01/ 2017, doi: https://doi.org/10.1016/j.gloenvcha.2016.05.009.
